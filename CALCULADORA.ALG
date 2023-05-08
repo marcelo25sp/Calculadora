@@ -10,6 +10,9 @@ Var
 
 Inicio
 
+      Escreval("=====================")
+      Escreval("Universidade Futuro")
+      Escreval("=====================")
       Escreval("Digite o nome do usuário:")
       Leia(nome)
       EscrevaL("Bem vindo ",nome , "!")
